@@ -1,0 +1,11 @@
+inputSet:
+  pipeline:
+    identifier: RemotePipelineShell
+    variables:
+      - name: test
+        type: String
+        value: Test
+  name: Remote-Pipeline-Shell-INPUTSET1
+  identifier: RemotePipelineShellINPUTSET1
+  orgIdentifier: default
+  projectIdentifier: CDUsecases
