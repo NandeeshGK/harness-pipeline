@@ -1,5 +1,5 @@
 pipeline:
-  name: RemotePipeline-Shell
+  name: RemotePipeline-Shell-Test
   identifier: RemotePipelineShell
   projectIdentifier: CDUsecases
   orgIdentifier: default
